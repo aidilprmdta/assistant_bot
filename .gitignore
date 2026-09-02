@@ -1,4 +1,3 @@
 # .gitignore
 .env
 .env.example
-README.md
